@@ -1,0 +1,136 @@
+body {
+    background-color: #201b2c;
+    margin: 0;
+}
+
+.Left {
+    margin: 0;
+    color: #77ffc0;
+    text-align: center;
+    
+}
+
+.main-register {
+    width: 100vw;
+    height: 100vh;
+    background-color: #201b2c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rightlogin {
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.card-register {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    flex-direction: column;
+    padding: 30px 35px;
+    background-color: #2f2841;
+    border-radius: 20px;
+    box-shadow: 0px 10px 40px #00000056;
+}
+
+.card-register > .text-register {
+    justify-content: left;
+    align-items: left;
+}
+
+.card-register > p {
+    color:#77ffc0;
+    align-items: left;
+    font-size: 15pt;
+    padding-left: 7vw;
+}
+
+.card-register > h1 {
+    text-align: center;
+    color: #77ffc0;;
+}
+
+.Data-de-nascimento {
+    display: inline-flex;
+    width: 50% ;
+    margin-left: 0; 
+    text-align: left;
+   padding-left: 6vw;
+}
+
+.text-register {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.text-register > label {
+    color: #77ffc0;
+    font-size: 15pt;
+}
+
+.text-register > input {
+    border-radius: 15px;
+    width: 90%;
+    padding: 15px;
+    outline: none;
+}
+
+.text-data > input {
+    width: 65%;
+    justify-content: center;
+    align-items: center;    
+    border-radius: 9px;
+    outline: none;
+    padding: 7px;
+   text-align: center;
+   
+}
+
+.text-data {
+    text-align: center;
+    justify-content: center;
+    color: #77ffc0;
+
+}
+
+.text-data > label {
+    font-size: 15pt;
+    text-align: center;
+    padding-left: 10px;
+        
+}
+
+
+.button {
+    font-size: 20pt;
+    text-align: center;
+    padding-left: -6vw;
+    padding-top: 1vw;
+    outline: none;
+    border-radius: 10px;
+}
+
+.button > .btnregister {
+    font-size: 20pt;
+    color: white;
+    background-color: #2f2841;
+    outline: none;
+
+}  
+
+.home > h2 {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #77ffc0;
+    padding-top: -10px;
+}

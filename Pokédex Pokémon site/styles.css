@@ -1,0 +1,193 @@
+body {
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    margin: 0;
+}
+
+
+
+.Menu-principal {
+    background-color:black;
+    height: 60px;
+    width: 100%;
+    display: flex;
+}
+
+.Logo {
+    width: 40%;
+    padding: 3px;
+    padding-left: 70px;
+}
+
+
+.login {
+    width: 20%;
+    padding-top: -20px;
+    padding-left: 58vw;
+}
+
+.social {
+    width: 40%;
+    padding: 14px;
+    text-align: right;
+}
+
+h2 {
+    display: flex;
+    width: 70px;
+}
+
+h3 {
+    display: flex;
+    width: 75px;
+}
+
+.todes {
+    display: flex;
+    width: 105%;
+    height: 60pxh;
+    flex-wrap: wrap;
+    
+    
+}
+
+.pokemon2 {
+    background-color: white;
+    border-radius: 10px;
+    width: 1px;
+    width: 215px;
+    margin: 5px;
+}
+
+.pokemon3 {
+    background-color: white;
+    border-radius: 10px;
+    width: 215px;
+    margin: 5px;
+}
+
+.pokemon4 {
+    background-color: white;
+    border-radius: 10px;
+    width: 215px;
+    margin: 5px;
+}
+
+.pokemon5 {
+    background-color: white;
+    border-color: black;
+    border-radius: 10px;
+    width: 215px;
+    margin: 5px;
+}
+
+.pokemon6{
+    background-color: white;
+    border-radius: 10px;
+    width: 215px;
+    margin: 5px;
+}
+
+
+.pokemon1 {
+    border: 2px;
+    border-radius: 10px;
+    background-color: white;
+    width: 215px;
+    margin: 5px;
+    margin-left: 14px;
+}
+
+.imagem {
+    background-color: #DED8D4;
+}
+
+.grass {
+    color: black;
+    background-color: green;
+    width: 80px;
+    height: 20px;
+    text-align: center;
+    margin-left: 3px;
+    border-radius: 4px; 
+    margin-bottom: 3px;    
+    width: 30%;
+}
+
+.poison {
+    color: white;
+    background-color: purple;
+    width: 80px;
+    height: 20px;
+    text-align: center;
+    margin-left: 3px;
+    margin-bottom: 3px; 
+    border-radius: 4px;
+    width: 30%;
+}
+.numero {
+    text-align: left;
+    margin: 3px;
+
+}
+
+.name {
+    text-align: center;
+    font-size: 15pt;
+    }
+
+.fire {
+    color: white;
+    background-color: red;
+    width: 80px;
+    height: 20px;
+    text-align: center;
+    margin-left: 3px;
+    margin-bottom: 3px; 
+    border-radius: 4px;
+    width: 30%;
+}
+
+.voador {
+    color: white;
+    background-color: skyblue;
+    width: 80px;
+    height: 20px;
+    text-align: center;
+    margin-left: 3px;
+    margin-bottom: 3px; 
+    border-radius: 4px;
+    width: 30%;
+}
+
+.water {
+    color: white;
+    background-color: blue;
+    width: 80px;
+    height: 20px;
+    text-align: center;
+    margin-left: 3px;
+    margin-bottom: 3px; 
+    border-radius: 4px;
+    width: 30%;
+}
+
+.inseto {
+    color: white;
+    background-color: greenyellow;
+    width: 80px;
+    height: 20px;
+    text-align: center;
+    margin-left: 3px;
+    margin-bottom: 3px; 
+    border-radius: 4px;
+    width: 30%;
+}
+
+
+.dual {
+    float: right;
+    display: list-item;
+    font-size: 0;
+}
